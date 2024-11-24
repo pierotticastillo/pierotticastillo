@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello! 👋 I'm Enrique Alejandro Pierotti Castillo
 
-<!--
-**pierotticastillo/pierotticastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Junior Web Developer**  
+💻 Passionate about Full Stack development and modern web technologies.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About me:
+- 🌱 Currently learning **TypeScript and Angular**.
+- 💡 Curious about backend programming with **Node.js**.
+- 🌍 Aiming to contribute to open-source projects.
+
+---
+
+## 🛠️ Technologies and Tools:
+- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, Angular
+- **Backend:** Node.js, Express.js
+- **Databases:** MySQL
+- **Others:** Git, GitHub
+
+---
+
+## 📈 Statistics:
+![Enrique Alejandro Pierotti Castillo](https://github-readme-stats.vercel.app/api?username=pierotticastillo&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/enrique-alejandro-pierotti-castillo-aa596b287/)
