@@ -51,5 +51,5 @@ I'm a Junior Web Developer passionate about Full Stack development and modern we
 <h2>Github stats:</h2>
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px;">
         <img src="https://github-readme-stats.vercel.app/api?username=pierotticastillo&show_icons=true&theme=radical" alt="Github Stats" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=pierotticastillo&theme=material-palenight" alt="Github Streak Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=pierotticastillo&theme=omni&card_height=200" alt="Github Streak Stats" />
 </div>
