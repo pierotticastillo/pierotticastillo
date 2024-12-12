@@ -41,7 +41,7 @@ I'm a Junior Web Developer passionate about Full Stack development and modern we
 
 <span>
 <a href="https://www.instagram.com/pierotticastillo/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <img style="margin-right:1px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/enrique-alejandro-pierotti-castillo-aa596b287/">
   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
