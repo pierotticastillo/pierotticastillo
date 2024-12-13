@@ -59,6 +59,6 @@ I’m driven by a passion for continuous learning and a desire to solve real-wor
 
 <h2>Github stats:</h2>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=pierotticastillo&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pierotticastillo&show_icons=true&theme=radical&card_width=450)
 
-![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=pierotticastillo&theme=omni)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierotticastillo&theme=radical&layout=compact&card_width=450)
