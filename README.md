@@ -3,8 +3,10 @@
 <!-- GIF -->
 <img align="right" width=300px alt="Developer" src="https://c.tenor.com/2nKSTDDekOgAAAAd/tenor.gif" />
 
-I'm a Junior Web Developer passionate about Full Stack development and modern web technologies.  
+**I'm a Junior Web Developer** passionate about Full Stack development and modern web technologies.  
 I am currently expanding my knowledge in both front-end and back-end development.
+📢 **Looking for new opportunities as a Junior Web Developer!** 🚀
+
 
 My goal is to become a versatile Full Stack Developer capable of building efficient and scalable web applications.  
 I’m driven by a passion for continuous learning and a desire to solve real-world problems through technology.
