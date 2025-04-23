@@ -49,6 +49,7 @@ I’m driven by a passion for continuous learning and a desire to solve real-wor
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
   <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff">
+  <img src="https://img.shields.io/badge/pnpm-%23433D87.svg?style=for-the-badge&logo=pnpm&logoColor=white">
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Studio Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white">
