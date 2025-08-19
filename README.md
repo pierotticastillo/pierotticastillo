@@ -4,7 +4,6 @@
   🌐 <a href="https://pierotticastillo.netlify.app" target="_blank"><strong>Visita mi Portfolio</strong></a> 🚀
 </p>
 
-
 <!-- GIF -->
 <img align="right" width=300px alt="Developer" src="https://c.tenor.com/2nKSTDDekOgAAAAd/tenor.gif" />
 
@@ -16,11 +15,11 @@ My goal is to become a versatile Full Stack Developer capable of building effici
 I’m driven by a passion for continuous learning and a desire to solve real-world problems through technology.
 
 - 🌱 I’m currently learning:
-  - Angular
-  - Nest.js
-  - TypeScript
+  - React Native + Expo
+  - Mobile App Development
+  - Supabase
 - 🌍 I’m looking forward to collaborating on open-source projects.
-- 💡 I’m expanding my backend skills with Nest.js and Node.js.
+- 💡 I’m expanding my skills in backend and mobile development.
 
 ## Technologies and Tools
 
@@ -28,10 +27,12 @@ I’m driven by a passion for continuous learning and a desire to solve real-wor
 <div align="start">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white">
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">  
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -48,12 +49,14 @@ I’m driven by a passion for continuous learning and a desire to solve real-wor
   <img src="https://img.shields.io/badge/Nodemailer-FFCC00?style=for-the-badge&logo=gmail&logoColor=black">
   <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
   <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=fff">
 </div>
 
 <h4>DevOps & Tools</h4>
 <div align="start">
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
