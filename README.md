@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hello, I'm Enrique Alejandro Pierotti Castillo</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  🌐 <a href="https://pierotticastillo.netlify.app" target="_blank"><strong>Visita mi Portfolio</strong></a> 🚀
+  🌐 <a href="https://pierotticastillo.netlify.app" target="_blank"><strong>Visit my Portfolio</strong></a> 🚀
 </p>
 
 <!-- GIF -->
@@ -15,9 +15,9 @@ My goal is to become a versatile Full Stack Developer capable of building effici
 I’m driven by a passion for continuous learning and a desire to solve real-world problems through technology.
 
 - 🌱 I’m currently learning:
-  - React Native + Expo
-  - Mobile App Development
-  - Supabase
+  - React Native + Expo for developing cross-platform mobile applications.
+  - Mobile App Development, focusing on creating fluid user experiences.
+  - Supabase for exploring serverless backend solutions and real-time databases.
 - 🌍 I’m looking forward to collaborating on open-source projects.
 - 💡 I’m expanding my skills in backend and mobile development.
 
@@ -83,7 +83,7 @@ I’m driven by a passion for continuous learning and a desire to solve real-wor
   </a>
 </div>
 
-<h2>Github stats:</h2>
+<h2>GitHub Stats:</h2>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pierotticastillo&show_icons=true&theme=radical&card_width=450)
 
