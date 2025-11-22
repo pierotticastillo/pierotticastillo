@@ -1,90 +1,90 @@
-<h1 align="center"><b>Hello, I'm Enrique Alejandro Pierotti Castillo</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Enrique Alejandro Pierotti Castillo — Full Stack Developer
+### Especializado en Desarrollo Web y Backend (Angular · Node.js · NestJS)
 
-<p align="center">
-  🌐 <a href="https://pierotticastillo.netlify.app" target="_blank"><strong>Visit my Portfolio</strong></a> 🚀
-</p>
+Soy un desarrollador full stack con experiencia en construir aplicaciones web y APIs escalables. Me especializo en crear interfaces intuitivas y sistemas backend robustos, aplicando buenas prácticas, diseño modular y un enfoque en la experiencia del usuario.
 
-<!-- GIF -->
-<img align="right" width=300px alt="Developer" src="https://c.tenor.com/2nKSTDDekOgAAAAd/tenor.gif" />
+He trabajado en proyectos reales que incluyen despliegues en producción, autenticación avanzada, integración de bases de datos y optimización de rendimiento.
 
-**I'm a Junior Web Developer** passionate about Full Stack development and modern web technologies.  
-I am currently expanding my knowledge in both front-end and back-end development.
-📢 **Looking for new opportunities as a Junior Web Developer!** 🚀
+Mi enfoque:  
+**resolver problemas reales con soluciones técnicas sólidas y escalables.**
 
-My goal is to become a versatile Full Stack Developer capable of building efficient and scalable web applications.  
-I’m driven by a passion for continuous learning and a desire to solve real-world problems through technology.
+---
 
-- 🌱 I’m currently learning:
-  - React Native + Expo for developing cross-platform mobile applications.
-  - Mobile App Development, focusing on creating fluid user experiences.
-  - Supabase for exploring serverless backend solutions and real-time databases.
-- 🌍 I’m looking forward to collaborating on open-source projects.
-- 💡 I’m expanding my skills in backend and mobile development.
+## 🔍 En qué destaco como desarrollador
 
-## Technologies and Tools
+### Desarrollo Web y Backend
+- **Frontend:** Angular, TailwindCSS, TypeScript.
+- **Backend:** Node.js, NestJS, PostgreSQL, MySQL, Supabase.
+- **Seguridad:** Implementación de JWT, autenticación segura y manejo de roles.
+- **APIs:** Diseño de APIs RESTful robustas y documentadas con Swagger.
 
-<h4>Frontend</h4>
-<div align="start">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white">
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">  
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white">
-</div>
+### Experiencia Full Stack
+- Desarrollo de aplicaciones completas, conectando frontend, backend y bases de datos.
+- Integración de servicios como Nodemailer para emails transaccionales.
 
-<h4>Backend</h4>
-<div align="start"> 
-  <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Nodemailer-FFCC00?style=for-the-badge&logo=gmail&logoColor=black">
-  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=fff">
-</div>
+Mi visión full stack me permite comprender cómo interactúan todas las capas, asegurando soluciones integrales y eficientes.
 
-<h4>DevOps & Tools</h4>
-<div align="start">
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/pnpm-%23433D87.svg?style=for-the-badge&logo=pnpm&logoColor=white">
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual Studio Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=fff">
-</div>
+### Mentalidad de ingeniería
+- Diseño modular y mantenible, siguiendo principios SOLID.
+- Documentación clara y decisiones técnicas justificadas.
+- Enfoque en escalabilidad, seguridad y rendimiento.
+- Formación constante en patrones de diseño, arquitectura limpia y testing.
 
-## Connect with me on my Social Platforms
+### Desarrollo Mobile (Complementario)
+- Desarrollo completo con React Native + Expo.
+- Integración con APIs backend y manejo de credenciales.
 
-<div align="start">
-  <a href="https://www.instagram.com/pierotticastillo/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/enrique-alejandro-pierotti-castillo-aa596b287/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
+---
 
-<h2>GitHub Stats:</h2>
+## 📘 Proyectos destacados
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pierotticastillo&show_icons=true&theme=radical&card_width=450)
+### [Frio Concordia ❄️](https://frioconcordia.com.ar/main/home)
+- **Descripción:** Solución web integral que presenta el catálogo de productos con opción de descarga, una sección de novedades, mapa de cobertura con vendedores y un sistema de contacto directo con la empresa.
+- **Tecnologías:** Angular, Bootstrap, Node.js, NestJS, MySQL, Nodemailer.
+- **Video:** [Ver en YouTube](https://www.youtube.com/watch?v=AO4qtoz9l28)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierotticastillo&theme=radical&layout=compact&card_width=450)
+### [TaskFlow ✨ - Tu App de Tareas Sencilla](https://github.com/pierotticastillo/TaskFlow)
+- **Descripción:** Aplicación móvil minimalista para gestionar tareas, desarrollada con React Native y Expo. Incluye gestión de estado, almacenamiento local con AsyncStorage y navegación entre pantallas.
+- **Tecnologías:** AsyncStorage, Expo, React Native, TypeScript.
+- **Video:** [Ver en YouTube](https://www.youtube.com/watch?v=osFtfbgv6E8)
+
+### [Encuestas Anónimas 🗳️](https://encuestas-anonimas-frontend.onrender.com)
+- **Descripción:** Plataforma que garantiza la privacidad de los participantes al no mostrar resultados individuales. Un Creador puede generar, publicar y editar sus encuestas, accediendo a un dashboard a través de un enlace enviado por email, sin necesidad de iniciar sesión.
+- **Tecnologías:** Angular, NestJS, PostgreSQL, TailwindCSS, TypeORM.
+- **Repositorio:** [GitHub](https://github.com/pierotticastillo)
+- **Video:** [Ver en YouTube](https://www.youtube.com/watch?v=AejfkikMHbg)
+
+---
+
+## 💼 Qué aporto a una empresa
+
+- **Rigor técnico:** diseño, seguridad y mantenibilidad.
+- **Disciplina:** aprendizaje constante y enfoque en buenas prácticas.
+- **Criterio técnico:** claridad y decisiones inteligentes.
+- **Productividad profesional:** entrego soluciones rápidas y de calidad.
+- **Visión full stack:** comprendo todo el flujo, pero con un enfoque sólido en backend y web.
+- **Comunicación clara:** documentación técnica y explicaciones precisas.
+
+Mi objetivo es crecer como desarrollador full stack y aportar valor real a proyectos desafiantes.
+
+---
+
+## 🛠 Stack actual
+
+### Backend
+`TypeScript` · `NestJS` · `Node.js` · `PostgreSQL` · `MySQL` · `TypeORM` · `JWT` · `Redis`
+
+### Frontend
+`Angular` · `TailwindCSS`
+
+### Mobile (Complementario)
+`React Native` · `Expo`
+
+### DevOps / Herramientas
+`Docker` · `Git` · `PM2` · `Swagger` · `Nodemailer`
+
+---
+
+## 📫 Contacto
+**LinkedIn:**  
+[https://www.linkedin.com/in/enrique-alejandro-pierotti-castillo/](https://www.linkedin.com/in/enrique-alejandro-pierotti-castillo/)
