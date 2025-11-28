@@ -1,4 +1,4 @@
-# Enrique Alejandro Pierotti Castillo - Especialista en Angular & NestJS - Full Stack Developer`
+# Enrique Alejandro Pierotti Castillo - Especialista en Angular & NestJS - Full Stack Developer
 
 
 Soy un desarrollador full stack con experiencia en construir aplicaciones web y APIs escalables. Me especializo en crear interfaces intuitivas y sistemas backend robustos, aplicando buenas prácticas, diseño modular y un enfoque en la experiencia del usuario.
