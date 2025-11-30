@@ -13,8 +13,8 @@ Mi enfoque:
 ## 💡 Mis Habilidades
 
 ### Desarrollo Web y Backend
-- **Frontend:** Angular, TailwindCSS, TypeScript.
-- **Backend:** Node.js, NestJS, PostgreSQL, MySQL, Supabase.
+- **Frontend:** Angular, React, Bootstrap, TailwindCSS, TypeScript.
+- **Backend:** Node.js, NestJS, Express.js, PostgreSQL, MySQL.
 - **Seguridad:** Implementación de JWT, autenticación segura y manejo de roles.
 - **APIs:** Diseño de APIs RESTful robustas y documentadas con Swagger.
 
