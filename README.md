@@ -1,12 +1,12 @@
 # Enrique Alejandro Pierotti Castillo - Especialista en Angular & NestJS - Full Stack Developer
 
 
-Soy un desarrollador full stack con experiencia en construir aplicaciones web y APIs escalables. Me especializo en crear interfaces intuitivas y sistemas backend robustos, aplicando buenas prácticas, diseño modular y un enfoque en la experiencia del usuario.
+Soy un desarrollador full stack con experiencia en construir aplicaciones web, APIs y soluciones backend listas para producción. Trabajo principalmente con Angular, NestJS, Node.js y bases de datos relacionales, cuidando la arquitectura, la seguridad y la experiencia de uso.
 
-He trabajado en proyectos reales que incluyen despliegues en producción, autenticación avanzada, integración de bases de datos y optimización de rendimiento.
+He desarrollado proyectos reales con despliegues en producción, autenticación, manejo de roles, integración de bases de datos, dashboards administrativos y automatización de comunicaciones.
 
 Mi enfoque:  
-**resolver problemas reales con soluciones técnicas sólidas y escalables.**
+**transformar necesidades concretas en productos funcionales, mantenibles y bien documentados.**
 
 ---
 
@@ -14,7 +14,7 @@ Mi enfoque:
 
 ### Desarrollo Web y Backend
 - **Frontend:** Angular, React, Bootstrap, TailwindCSS, TypeScript.
-- **Backend:** Node.js, NestJS, Express.js, PostgreSQL, MySQL.
+- **Backend:** Node.js, NestJS, Express.js, C#, .NET, PostgreSQL, MySQL.
 - **Seguridad:** Implementación de JWT, autenticación segura y manejo de roles.
 - **APIs:** Diseño de APIs RESTful robustas y documentadas con Swagger.
 
@@ -22,7 +22,7 @@ Mi enfoque:
 - Desarrollo de aplicaciones completas, conectando frontend, backend y bases de datos.
 - Integración de servicios como Nodemailer para emails transaccionales.
 
-Mi visión full stack me permite comprender cómo interactúan todas las capas, asegurando soluciones integrales y eficientes.
+Esta experiencia me permite conectar decisiones de interfaz, API, datos y despliegue sin perder de vista el objetivo del producto.
 
 ### Mentalidad de ingeniería
 - Diseño modular y mantenible, siguiendo principios SOLID.
@@ -38,19 +38,25 @@ Mi visión full stack me permite comprender cómo interactúan todas las capas, 
 
 ## 🚀 Proyectos Relevantes
 
-### [Frio Concordia ❄️](https://frioconcordia.com.ar/main/home)
-- **Descripción:** Solución web integral que presenta el catálogo de productos con opción de descarga, una sección de novedades, mapa de cobertura con vendedores y un sistema de contacto directo con la empresa.
+### [Frío Concordia ❄️](https://frioconcordia.com.ar/main/home)
+- **Problema resuelto:** La empresa necesitaba una presencia digital clara para mostrar productos, comunicar novedades y facilitar el contacto con clientes según zona de cobertura.
+- **Mi aporte:** Desarrollé una solución web integral con catálogo descargable, sección de novedades, mapa de vendedores y formulario de contacto directo.
+- **Detalle técnico:** Implementación full stack con frontend en Angular, backend en NestJS, base de datos MySQL e integración de Nodemailer para comunicaciones.
 - **Tecnologías:** Angular, Bootstrap, Node.js, NestJS, MySQL, Nodemailer.
 - **Video:** [Ver en YouTube](https://www.youtube.com/watch?v=AO4qtoz9l28)
 
 ### [Encuestas Anónimas 🗳️](https://encuestas-anonimas-frontend.onrender.com)
-- **Descripción:** Plataforma que garantiza la privacidad de los participantes al no mostrar resultados individuales. Un Creador puede generar, publicar y editar sus encuestas, accediendo a un dashboard a través de un enlace enviado por email, sin necesidad de iniciar sesión.
+- **Problema resuelto:** Crear encuestas preservando la privacidad de los participantes y evitando que los resultados individuales queden expuestos.
+- **Mi aporte:** Diseñé una plataforma donde un creador puede generar, publicar y editar encuestas, accediendo a un dashboard privado mediante un enlace enviado por email.
+- **Detalle técnico:** Backend con NestJS, PostgreSQL y TypeORM, flujo de acceso sin inicio de sesión tradicional y frontend en Angular con TailwindCSS.
 - **Tecnologías:** Angular, NestJS, PostgreSQL, TailwindCSS, TypeORM.
 - **Repositorio:** [GitHub](https://github.com/pierotticastillo/encuestas-anonimas)
 - **Video:** [Ver en YouTube](https://www.youtube.com/watch?v=AejfkikMHbg)
 
 ### [Cachi-Bache 🚧](https://github.com/pierotticastillo/CachiBache)
-- **Descripción:** Aplicación móvil que permite a los ciudadanos reportar baches con geolocalización y evidencia fotográfica. Incluye un backend con NestJS y PostgreSQL, además de un panel administrativo para la gestión de reparaciones.
+- **Problema resuelto:** Facilitar el reporte ciudadano de baches y centralizar la gestión de reparaciones desde un panel administrativo.
+- **Mi aporte:** Construí una aplicación móvil para reportes con geolocalización y evidencia fotográfica, junto con un backend y una vista administrativa para seguimiento.
+- **Detalle técnico:** Desarrollo mobile con React Native y Expo, API en NestJS, persistencia en PostgreSQL y modelado con TypeORM.
 - **Tecnologías:** React Native, Expo, NestJS, PostgreSQL, TypeScript, TypeORM.
 - **Repositorio:** [GitHub](https://github.com/pierotticastillo/CachiBache)
 
@@ -58,18 +64,27 @@ Mi visión full stack me permite comprender cómo interactúan todas las capas, 
 
 ## ✨ Mi Valor Agregado
 
-- **Rigor técnico:** diseño, seguridad y mantenibilidad.
-- **Disciplina:** aprendizaje constante y enfoque en buenas prácticas.
-- **Criterio técnico:** claridad y decisiones inteligentes.
-- **Productividad profesional:** entrego soluciones rápidas y de calidad.
-- **Visión full stack:** comprendo todo el flujo, pero con un enfoque sólido en backend y web.
-- **Comunicación clara:** documentación técnica y explicaciones precisas.
+- **Criterio técnico:** tomo decisiones pensando en mantenibilidad, seguridad y crecimiento del proyecto.
+- **Productividad profesional:** convierto requerimientos en funcionalidades concretas, priorizando claridad y calidad.
+- **Visión de producto:** entiendo el flujo completo entre usuario, interfaz, API, base de datos y despliegue.
+- **Comunicación clara:** documento decisiones, explico soluciones y mantengo ordenado el avance técnico.
 
-Mi objetivo es crecer como desarrollador full stack y aportar valor real a proyectos desafiantes.
+Mi objetivo es seguir creciendo como desarrollador y aportar valor real a proyectos desafiantes.
+
+---
+
+## 🎯 Actualmente enfocado en
+
+- Profundizar en **C# y .NET** para desarrollo backend moderno.
+- Reforzar mi trabajo con **Angular** en aplicaciones web escalables.
+- Seguir incorporando **Python** para automatización, análisis y herramientas de soporte.
+- Mejorar arquitectura backend, testing y despliegues profesionales.
 
 ---
 
 ## 💻 Mi Stack de Tecnologías
+
+### Core
 
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -77,6 +92,20 @@ Mi objetivo es crecer como desarrollador full stack y aportar valor real a proye
   </a>
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
+</p>
+
+### Backend
+
+<p align="left">
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
@@ -93,9 +122,6 @@ Mi objetivo es crecer como desarrollador full stack y aportar valor real a proye
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  </a>
   <a href="https://typeorm.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/TypeORM-E0234E?style=for-the-badge" alt="TypeORM">
   </a>
@@ -105,6 +131,11 @@ Mi objetivo es crecer como desarrollador full stack y aportar valor real a proye
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
   </a>
+</p>
+
+### Frontend y Mobile
+
+<p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   </a>
@@ -123,6 +154,11 @@ Mi objetivo es crecer como desarrollador full stack y aportar valor real a proye
   <a href="https://expo.dev/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
   </a>
+</p>
+
+### DevOps y Herramientas
+
+<p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   </a>
