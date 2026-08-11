@@ -60,6 +60,15 @@ Esta experiencia me permite conectar decisiones de interfaz, API, datos y despli
 - **Tecnologías:** React Native, Expo, NestJS, PostgreSQL, TypeScript, TypeORM.
 - **Repositorio:** [GitHub](https://github.com/pierotticastillo/CachiBache)
 
+### [Amplix - Blog 📝](https://blog-amplix.vercel.app/)
+- **Problema resuelto:** Construir un blog full-stack completo con autenticación segura, gestión de contenidos y panel de administración, listo para producción.
+- **Mi aporte:** Desarrollé una aplicación con roles de usuario (USER/ADMIN), CRUD de posts, comentarios, categorías, búsqueda, carga de imágenes a Cloudinary y un dashboard administrativo con estadísticas.
+- **Detalle técnico:** Backend con Node.js + Express 5 y PostgreSQL (Prisma 6), autenticación JWT + bcrypt, validación con Joi, subida de archivos con Multer + Cloudinary, frontend en React 19 + Vite 6 y tests con Vitest + React Testing Library. Contenerizado con Docker.
+- **Tecnologías:** Node.js, Express, React, Vite, PostgreSQL, Prisma, JWT, Cloudinary, Docker, Vitest.
+- **Repositorio:** [GitHub](https://github.com/pierotticastillo/FS-0003)
+- **Producción:** [blog-amplix.vercel.app](https://blog-amplix.vercel.app/)
+- **Video:** [Ver en YouTube](https://www.youtube.com/watch?v=hHrusZSvN6w)
+
 ---
 
 ## ✨ Mi Valor Agregado
