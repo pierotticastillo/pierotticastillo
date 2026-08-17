@@ -43,6 +43,7 @@ Esta experiencia me permite conectar decisiones de interfaz, API, datos y despli
 - **Mi aporte:** Desarrollé una solución web integral con catálogo descargable, sección de novedades, mapa de vendedores y formulario de contacto directo.
 - **Detalle técnico:** Implementación full stack con frontend en Angular, backend en NestJS, base de datos MySQL e integración de Nodemailer para comunicaciones.
 - **Tecnologías:** Angular, Bootstrap, Node.js, NestJS, MySQL, Nodemailer.
+- **Producción:** [frioconcordia.com.ar](https://frioconcordia.com.ar/main/home)
 - **Video:** [Ver en YouTube](https://www.youtube.com/watch?v=AO4qtoz9l28)
 
 ### [Encuestas Anónimas 🗳️](https://encuestas-anonimas-frontend.onrender.com)
@@ -51,6 +52,7 @@ Esta experiencia me permite conectar decisiones de interfaz, API, datos y despli
 - **Detalle técnico:** Backend con NestJS, PostgreSQL y TypeORM, flujo de acceso sin inicio de sesión tradicional y frontend en Angular con TailwindCSS.
 - **Tecnologías:** Angular, NestJS, PostgreSQL, TailwindCSS, TypeORM.
 - **Repositorio:** [GitHub](https://github.com/pierotticastillo/encuestas-anonimas)
+- **Producción:** [encuestas-anonimas-frontend.onrender.com](https://encuestas-anonimas-frontend.onrender.com/)
 - **Video:** [Ver en YouTube](https://www.youtube.com/watch?v=AejfkikMHbg)
 
 ### [Cachi-Bache 🚧](https://github.com/pierotticastillo/CachiBache)
