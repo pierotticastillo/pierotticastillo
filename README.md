@@ -38,6 +38,15 @@ Esta experiencia me permite conectar decisiones de interfaz, API, datos y despli
 
 ## 🚀 Proyectos Relevantes
 
+### [Amplix - Blog 📝](https://blog-amplix.vercel.app/)
+- **Problema resuelto:** Construir un blog full-stack completo con autenticación segura, gestión de contenidos y panel de administración, listo para producción.
+- **Mi aporte:** Desarrollé una aplicación con roles de usuario (USER/ADMIN), CRUD de posts, comentarios, categorías, búsqueda, carga de imágenes a Cloudinary y un dashboard administrativo con estadísticas.
+- **Detalle técnico:** Backend con Node.js + Express 5 y PostgreSQL (Prisma 6), autenticación JWT + bcrypt, validación con Joi, subida de archivos con Multer + Cloudinary, frontend en React 19 + Vite 6 y tests con Vitest + React Testing Library. Contenerizado con Docker.
+- **Tecnologías:** Node.js, Express, React, Vite, PostgreSQL, Prisma, JWT, Cloudinary, Docker, Vitest.
+- **Producción:** [blog-amplix.vercel.app](https://blog-amplix.vercel.app/)
+- **Repositorio:** [GitHub](https://github.com/pierotticastillo/FS-0003)
+- **Video:** [Ver en YouTube](https://www.youtube.com/watch?v=hHrusZSvN6w)
+
 ### [Cachi-Bache 🚧](https://github.com/pierotticastillo/CachiBache)
 - **Problema resuelto:** Facilitar el reporte ciudadano de baches y centralizar la gestión de reparaciones desde un panel administrativo.
 - **Mi aporte:** Construí una aplicación móvil para reportes con geolocalización y evidencia fotográfica, junto con un backend y una vista administrativa para seguimiento.
@@ -47,21 +56,14 @@ Esta experiencia me permite conectar decisiones de interfaz, API, datos y despli
 
 ### [Encuestas Anónimas 🗳️](https://encuestas-anonimas-frontend.onrender.com)
 - **Problema resuelto:** Crear encuestas preservando la privacidad de los participantes y evitando que los resultados individuales queden expuestos.
-- **Mi aporte:** Diseñé una plataforma donde un creador puede generar, publicar y editar encuestas, accediendo a un dashboard privado mediante un enlace enviado por email.
-- **Detalle técnico:** Backend con NestJS, PostgreSQL y TypeORM, flujo de acceso sin inicio de sesión tradicional y frontend en Angular con TailwindCSS.
-- **Tecnologías:** Angular, NestJS, PostgreSQL, TailwindCSS, TypeORM.
+- **Mi aporte:** Diseñé una plataforma donde un creador puede generar, publicar y editar encuestas, accediendo a un dashboard privado mediante un enlace enviado por email, sin necesidad de inicio de sesión tradicional.
+- **Detalle técnico:** Backend con NestJS, PostgreSQL y TypeORM, autenticación JWT + bcrypt, caché con Node-Cache, documentación con Swagger, emails transaccionales con Nodemailer, despliegue con PM2 y NGINX. Frontend en Angular con TailwindCSS y Standalone Components.
+- **Tecnologías:** TypeScript, NestJS, PostgreSQL, TypeORM, Node.js, Bcrypt, PNPM, Nodemailer, Angular, TailwindCSS, PM2, NGINX
+- **Producción:** [https://encuestas-anonimas-frontend.onrender.com/](https://encuestas-anonimas-frontend.onrender.com/)
 - **Repositorio:** [GitHub](https://github.com/pierotticastillo/encuestas-anonimas)
 - **Video:** [Ver en YouTube](https://youtu.be/AejfkikMHbg)
 
-### [FS-0003](https://blog-amplix.vercel.app/)
-
-- **Problema resuelto:** Aplicación web full-stack tipo blog con autenticación JWT, roles de usuario (USER / ADMIN), CRUD de posts, comentarios, categorías, búsqueda, carga de imágenes a Cloudinary y panel de administración.
-- **Mi aporte:** Implementación del backend con Node.js + Express 5, autenticación JWT, gestión de roles, integración de Prisma, CRUD completo de posts y comentarios, panel de administración, y subida de imágenes a Cloudinary; frente con React 19 + Vite 6.
-- **Detalle técnico:** Tecnologías: Node.js, Express, Prisma, PostgreSQL, JWT, bcrypt, Joi, Multer, Cloudinary, React, Vite, Docker, Docker Compose.
-- **Tecnologías:** Node.js, Express, PostgreSQL, Prisma, JWT, bcrypt, Joi, Multer, Cloudinary, React, Vite, Docker.
-- **Repositorio:** [GitHub](https://github.com/pierotticastillo/FS-0003)
-- **Video:** [Ver en YouTube](https://youtu.be/hHrusZSvN6w)
-
+---
 
 ## ✨ Mi Valor Agregado
 
