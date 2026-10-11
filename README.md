@@ -38,21 +38,6 @@ Esta experiencia me permite conectar decisiones de interfaz, API, datos y despli
 
 ## 🚀 Proyectos Relevantes
 
-### [Frío Concordia ❄️](https://frioconcordia.com.ar/main/home)
-- **Problema resuelto:** La empresa necesitaba una presencia digital clara para mostrar productos, comunicar novedades y facilitar el contacto con clientes según zona de cobertura.
-- **Mi aporte:** Desarrollé una solución web integral con catálogo descargable, sección de novedades, mapa de vendedores y formulario de contacto directo.
-- **Detalle técnico:** Implementación full stack con frontend en Angular, backend en NestJS, base de datos MySQL e integración de Nodemailer para comunicaciones.
-- **Tecnologías:** Angular, Bootstrap, Node.js, NestJS, MySQL, Nodemailer.
-- **Video:** [Ver en YouTube](https://www.youtube.com/watch?v=AO4qtoz9l28)
-
-### [Encuestas Anónimas 🗳️](https://encuestas-anonimas-frontend.onrender.com)
-- **Problema resuelto:** Crear encuestas preservando la privacidad de los participantes y evitando que los resultados individuales queden expuestos.
-- **Mi aporte:** Diseñé una plataforma donde un creador puede generar, publicar y editar encuestas, accediendo a un dashboard privado mediante un enlace enviado por email.
-- **Detalle técnico:** Backend con NestJS, PostgreSQL y TypeORM, flujo de acceso sin inicio de sesión tradicional y frontend en Angular con TailwindCSS.
-- **Tecnologías:** Angular, NestJS, PostgreSQL, TailwindCSS, TypeORM.
-- **Repositorio:** [GitHub](https://github.com/pierotticastillo/encuestas-anonimas)
-- **Video:** [Ver en YouTube](https://www.youtube.com/watch?v=AejfkikMHbg)
-
 ### [Cachi-Bache 🚧](https://github.com/pierotticastillo/CachiBache)
 - **Problema resuelto:** Facilitar el reporte ciudadano de baches y centralizar la gestión de reparaciones desde un panel administrativo.
 - **Mi aporte:** Construí una aplicación móvil para reportes con geolocalización y evidencia fotográfica, junto con un backend y una vista administrativa para seguimiento.
@@ -60,7 +45,23 @@ Esta experiencia me permite conectar decisiones de interfaz, API, datos y despli
 - **Tecnologías:** React Native, Expo, NestJS, PostgreSQL, TypeScript, TypeORM.
 - **Repositorio:** [GitHub](https://github.com/pierotticastillo/CachiBache)
 
----
+### [Encuestas Anónimas 🗳️](https://encuestas-anonimas-frontend.onrender.com)
+- **Problema resuelto:** Crear encuestas preservando la privacidad de los participantes y evitando que los resultados individuales queden expuestos.
+- **Mi aporte:** Diseñé una plataforma donde un creador puede generar, publicar y editar encuestas, accediendo a un dashboard privado mediante un enlace enviado por email.
+- **Detalle técnico:** Backend con NestJS, PostgreSQL y TypeORM, flujo de acceso sin inicio de sesión tradicional y frontend en Angular con TailwindCSS.
+- **Tecnologías:** Angular, NestJS, PostgreSQL, TailwindCSS, TypeORM.
+- **Repositorio:** [GitHub](https://github.com/pierotticastillo/encuestas-anonimas)
+- **Video:** [Ver en YouTube](https://youtu.be/AejfkikMHbg)
+
+### [FS-0003](https://blog-amplix.vercel.app/)
+
+- **Problema resuelto:** Aplicación web full-stack tipo blog con autenticación JWT, roles de usuario (USER / ADMIN), CRUD de posts, comentarios, categorías, búsqueda, carga de imágenes a Cloudinary y panel de administración.
+- **Mi aporte:** Implementación del backend con Node.js + Express 5, autenticación JWT, gestión de roles, integración de Prisma, CRUD completo de posts y comentarios, panel de administración, y subida de imágenes a Cloudinary; frente con React 19 + Vite 6.
+- **Detalle técnico:** Tecnologías: Node.js, Express, Prisma, PostgreSQL, JWT, bcrypt, Joi, Multer, Cloudinary, React, Vite, Docker, Docker Compose.
+- **Tecnologías:** Node.js, Express, PostgreSQL, Prisma, JWT, bcrypt, Joi, Multer, Cloudinary, React, Vite, Docker.
+- **Repositorio:** [GitHub](https://github.com/pierotticastillo/FS-0003)
+- **Video:** [Ver en YouTube](https://youtu.be/hHrusZSvN6w)
+
 
 ## ✨ Mi Valor Agregado
 
