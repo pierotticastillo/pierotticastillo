@@ -191,5 +191,6 @@ Mi objetivo es seguir creciendo como desarrollador y aportar valor real a proyec
 ---
 
 ## 📬 Contacto
-**LinkedIn:**  
-[https://www.linkedin.com/in/enrique-alejandro-pierotti-castillo/](https://www.linkedin.com/in/enrique-alejandro-pierotti-castillo/)
+**LinkedIn:** [https://www.linkedin.com/in/enriquealejandropierotticastillo/](https://www.linkedin.com/in/enriquealejandropierotticastillo/)
+
+**Portfolio:** [https://pierotticastillo.netlify.app/](https://pierotticastillo.netlify.app/)
