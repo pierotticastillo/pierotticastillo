@@ -34,6 +34,11 @@ Esta experiencia me permite conectar decisiones de interfaz, API, datos y despli
 - Desarrollo completo con React Native + Expo.
 - Integración con APIs backend y manejo de credenciales.
 
+### Inteligencia Artificial y Agentes
+- Desarrollo de agentes de software con **LangChain** para automatización de flujos y tareas complejas.
+- Integración de modelos de lenguaje (LLMs) con herramientas externas, memoria y razonamiento paso a paso.
+- Creación de pipelines agenticos capaces de planificar, ejecutar y validar acciones de forma autónoma.
+
 ---
 
 ## 🚀 Proyectos Relevantes
@@ -133,6 +138,9 @@ Mi objetivo es seguir creciendo como desarrollador y aportar valor real a proyec
   </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+  </a>
+  <a href="https://langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LangChain-1C2A48?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
   </a>
 </p>
 
